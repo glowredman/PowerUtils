@@ -1,0 +1,16 @@
+[
+{
+  "modid": "powerutils",
+  "name": "Power Utils",
+  "description": "Convert between different energy system easily.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["glowredman"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
